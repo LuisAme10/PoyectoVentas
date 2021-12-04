@@ -1,0 +1,9 @@
+com\emergentes\Conexion.class
+com\emergentes\Modelo\VentaDAO.class
+com\emergentes\controlador\Validar.class
+com\emergentes\controlador\Controlador.class
+com\emergentes\Modelo\Producto.class
+com\emergentes\Modelo\Venta.class
+com\emergentes\Modelo\ProductoDAO.class
+com\emergentes\Modelo\UsuarioDAO.class
+com\emergentes\Modelo\Usuario.class
